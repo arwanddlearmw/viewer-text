@@ -18,3 +18,7 @@ now to open file just do :
 ```bash
 ./viewer-text
 ```
+
+# License
+Made from arwand
+(LICENSE)[MIT LICENSE]
