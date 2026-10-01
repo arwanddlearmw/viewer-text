@@ -21,4 +21,4 @@ now to open file just do :
 
 # License
 Made from arwand
-(LICENSE)[MIT LICENSE]
+(./LICENSE)[MIT LICENSE]
